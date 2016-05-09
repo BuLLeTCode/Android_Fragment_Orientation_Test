@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments Test</string>
+    <string name="landscape_fragment">Landscape fragment</string>
+    <string name="portrait">Portrait</string>
+</resources>
